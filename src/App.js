@@ -50,6 +50,9 @@ function App() {
             <DropdownItem img = {logout} text = {"Logout"}/>
           </ul>
         </div>
+        <div>
+          <h1>Mohan da</h1>
+        </div>
       </div>
     </div>
   );
